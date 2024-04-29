@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DEFAULT_SKETCH_CAPACITY","DEFAULT_SKETCH_PROBABILITY","DEFAULT_SKETCH_TOLERANCE"],"enum":["PolicyType"],"fn":["default_channel_capacity","default_connection_blocklist_ttl_sec","default_dry_run"],"struct":["FreqThresholdConfig","PolicyConfig","RemoteFirewallConfig","Weight"]};
